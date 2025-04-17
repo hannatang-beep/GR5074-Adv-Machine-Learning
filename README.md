@@ -10,7 +10,9 @@ We have organized the repository into three structured folders for each project,
 
 Main directory:
 - `Project_1/`
-  - `data/`: `newcountryvars.csv`, `WHR_2023.csv`
+  - `data/`:
+    - `newcountryvars.csv`
+    - `WHR_2023.csv`
   - `notebooks/`: `Group1_Project_1.ipynb`, `Group1_World_Happiness_Classification_Competition.ipynb`
   - `README.md`
 - `Project_2/`
