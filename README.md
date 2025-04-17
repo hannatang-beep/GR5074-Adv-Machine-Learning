@@ -16,14 +16,17 @@ Main directory:
 - `Project_2/`
   - `data/`:
     - `COVID/`
-    - `NORMAL/`
+    - `Lung_Opacity/`
+    - `Normal/`
     - `Viral Pneumonia/`
-    - optional: `masks/` for segmentation
-  - `notebooks/`: contains `Project_2_Data.ipynb`
-  - `README.md`
+    - `COVID.metadata.xlsx`
+    - `Lung_Opacity.metadata.xlsx`
+    - `Normal.metadata.xlsx`
+    - `Viral Pneumonia.metadata.xlsx`
+  - `notebooks/`: `Project_2_Data.ipynb`
 - `Project_3/`: placeholder for final project
 - `.gitignore`: tracks ignored files (e.g. `.DS_Store`)
-- `README.md`: this file
+- `README.md`
 
 ---
 
