@@ -25,6 +25,7 @@ Main directory:
     - `Lung_Opacity.metadata.xlsx`
     - `Normal.metadata.xlsx`
     - `Viral Pneumonia.metadata.xlsx`
+    - `README.md.txt`
   - `notebooks/`: `Project_2_Data.ipynb`
 - `Project_3/`: placeholder for final project
 - `.gitignore`: tracks ignored files (e.g. `.DS_Store`)
