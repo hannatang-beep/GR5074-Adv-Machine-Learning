@@ -25,3 +25,8 @@ Main directory:
 - `.gitignore`: tracks ignored files (e.g. `.DS_Store`)
 - `README.md`: this file
 
+---
+
+## 👥 Contributors
+
+This repository is maintained by Group 1 (Yutong Quan, Han He, Hanna Tang) for GR5074 at Columbia University.
