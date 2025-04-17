@@ -1,6 +1,6 @@
-# GR5074: PROJECTS IN ADVANCED MACHINE LEARNING
+# GR5074: Projects In Advanced Machine Learning
 
-This repository contains all group project work for the course **GR5074: PROJECTS IN ADVANCED MACHINE LEARNING** at Columbia University.
+This repository contains all group project work for the course **GR5074: Projects In Advanced Machine Learning** at Columbia University.
 
 We have organized the repository into three structured folders for each project, including data, code notebooks, and any associated documentation.
 
@@ -10,11 +10,11 @@ We have organized the repository into three structured folders for each project,
 
 Main directory:
 - `Project_1/`
-  - `data/`: includes `newcountryvars.csv`, `WHR_2023.csv`
-  - `Group1_Project_1.ipynb`, `Group1_World_Happiness_Classification_Competition.ipynb`
+  - `data/`: `newcountryvars.csv`, `WHR_2023.csv`
+  - `notebooks/`: `Group1_Project_1.ipynb`, `Group1_World_Happiness_Classification_Competition.ipynb`
   - `README.md`
 - `Project_2/`
-  - `data/`: contains
+  - `data/`:
     - `COVID/`
     - `NORMAL/`
     - `Viral Pneumonia/`
