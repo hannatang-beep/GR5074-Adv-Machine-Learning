@@ -7,29 +7,21 @@ We have organized the repository into three structured folders for each project,
 ---
 
 ## 📁 Repository Structure
-GR5074-Adv-Machine-Learning/
-│
-├── Project_1/
-│   ├── data/
-│   │   ├── newcountryvars.csv
-│   │   └── WHR_2023.csv
-│   ├── Group1_Project_1.ipynb
-│   ├── Group1_World_Happiness_Classification_Competition.ipynb
-│   └── README.md
-│
-├── Project_2/
-│   ├── data/
-│   │   ├── COVID/
-│   │   ├── NORMAL/
-│   │   ├── Viral Pneumonia/
-│   │   └── (optional masks/)
-│   ├── notebooks/
-│   │   └── Project_2_Data.ipynb
-│   └── README.md
-│
-├── Project_3/
-│   └── (Placeholder for future project files)
-│
-├── .gitignore
-└── README.md
+
+Main directory:
+- `Project_1/`
+  - `data/`: includes `newcountryvars.csv`, `WHR_2023.csv`
+  - `Group1_Project_1.ipynb`, `Group1_World_Happiness_Classification_Competition.ipynb`
+  - `README.md`
+- `Project_2/`
+  - `data/`: contains
+    - `COVID/`
+    - `NORMAL/`
+    - `Viral Pneumonia/`
+    - optional: `masks/` for segmentation
+  - `notebooks/`: contains `Project_2_Data.ipynb`
+  - `README.md`
+- `Project_3/`: placeholder for final project
+- `.gitignore`: tracks ignored files (e.g. `.DS_Store`)
+- `README.md`: this file
 
