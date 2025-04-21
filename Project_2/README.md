@@ -40,18 +40,9 @@ We use a real-world medical dataset with thousands of images and implement a ful
 
 ---
 
-## 🛠️ Tools Used
-
-- Python 3.10+
-- TensorFlow / Keras
-- Pandas, NumPy, Matplotlib
-- Jupyter Notebook / Colab
-
----
-
 ## 👥 Group Members
 
-**Group 1 – GR5074 (Advanced Machine Learning)**  
+**Group 1 – GR5074**  
 - Han He (hh3098)  
 - Hanna Tang (ht2668)  
 - Yutong Quan (yq2397)
