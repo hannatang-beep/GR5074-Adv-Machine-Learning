@@ -10,8 +10,24 @@ We use a real-world medical dataset with thousands of images and implement a ful
 
 ## 📁 Folder Structure
 
-Project_2/ ├── data/ # Flattened image dataset │ ├── COVID/ │ ├── Normal/ │ ├── Viral Pneumonia/ │ ├── COVID.metadata.xlsx │ ├── Normal.metadata.xlsx │ ├── Viral Pneumonia.metadata.xlsx │ ├── Lung_Opacity/ │ └── Lung_Opacity.metadata.xlsx │ ├── notebooks/ # Code and final report │ ├── Project_2_Data.ipynb │ ├── G_1_HanHehh3098_HannaTanght2668_YutongQuanyq2397.ipynb │ └── G_1_HanHehh3098_HannaTanght2668_YutongQuanyq2397.pdf │ └── README.md
-
+```bash
+.
+├── Project_2/ 
+  │  ├── data/ # Flattened image dataset
+    │  ├── COVID/
+    │  ├── Normal/
+    │  ├── Viral Pneumonia/
+    │  ├── COVID.metadata.xlsx
+    │  ├── Normal.metadata.xlsx
+    │  ├── Viral Pneumonia.metadata.xlsx
+    │  ├── Lung_Opacity/
+    │  └── Lung_Opacity.metadata.xlsx
+  │  ├── notebooks/ # Code and final report
+    │  ├── Project_2_Data.ipynb
+    │  ├── G_1_HanHehh3098_HannaTanght2668_YutongQuanyq2397.ipynb
+    │  └── G_1_HanHehh3098_HannaTanght2668_YutongQuanyq2397.pdf
+  │  └── README.md
+```
 
 ---
 
