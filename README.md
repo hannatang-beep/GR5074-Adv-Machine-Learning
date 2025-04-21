@@ -8,6 +8,7 @@ We have organized the repository into three structured folders for each project,
 
 ## 📁 Repository Structure
 
+```bash
 .
 ├── Project_1
 │   ├── data
@@ -33,6 +34,7 @@ We have organized the repository into three structured folders for each project,
 │   │   └── Project_2_Data.ipynb
 │   └── README.md
 └── README.md
+```
 
 ---
 
