@@ -8,28 +8,31 @@ We have organized the repository into three structured folders for each project,
 
 ## 📁 Repository Structure
 
-Main directory:
-- `Project_1/`
-  - `data/`:
-    - `newcountryvars.csv`
-    - `WHR_2023.csv`
-  - `notebooks/`: `Group1_Project_1.ipynb`, `Group1_World_Happiness_Classification_Competition.ipynb`
-  - `README.md`
-- `Project_2/`
-  - `data/`:
-    - `COVID/`
-    - `Lung_Opacity/`
-    - `Normal/`
-    - `Viral Pneumonia/`
-    - `COVID.metadata.xlsx`
-    - `Lung_Opacity.metadata.xlsx`
-    - `Normal.metadata.xlsx`
-    - `Viral Pneumonia.metadata.xlsx`
-    - `README.md.txt`
-  - `notebooks/`: `Project_2_Data.ipynb`, `G_1_HanHehh3098_HannaTanght2668_YutongQuanyq2397.ipynb`, `G_1_HanHehh3098_HannaTanght2668_YutongQuanyq2397.pdf`
-- `Project_3/`: placeholder for final project
-- `.gitignore`: tracks ignored files (e.g. `.DS_Store`)
-- `README.md`
+.
+├── Project_1
+│   ├── data
+│   │   ├── WHR_2023.csv
+│   │   └── newcountryvars.csv
+│   └── notebooks
+│       ├── Group1_Project_1.ipynb
+│       └── Group1_World_Happiness_Classification_Competition.ipynb
+├── Project_2
+│   ├── data
+│   │   ├── COVID
+│   │   ├── Lung_Opacity
+│   │   ├── Normal
+│   │   ├── Viral Pneumonia
+│   │   ├── COVID.metadata.xlsx
+│   │   ├── Lung_Opacity.metadata.xlsx
+│   │   ├── Normal.metadata.xlsx
+│   │   ├── README.md.txt
+│   │   └── Viral Pneumonia.metadata.xlsx
+│   ├── notebooks
+│   │   ├── G_1_HanHehh3098_HannaTanght2668_YutongQuanyq2397.ipynb
+│   │   ├── G_1_HanHehh3098_HannaTanght2668_YutongQuanyq2397.pdf
+│   │   └── Project_2_Data.ipynb
+│   └── README.md
+└── README.md
 
 ---
 
