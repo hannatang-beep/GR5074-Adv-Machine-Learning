@@ -22,7 +22,7 @@ We use a real-world medical dataset with thousands of images and implement a ful
 │   ├── Normal.metadata.xlsx
 │   ├── README.md.txt
 │   └── Viral Pneumonia.metadata.xlsx
-├── notebooks
+├── notebooks #Code and Final Report
 │   ├── G_1_HanHehh3098_HannaTanght2668_YutongQuanyq2397.ipynb
 │   ├── G_1_HanHehh3098_HannaTanght2668_YutongQuanyq2397.pdf
 │   └── Project_2_Data.ipynb
