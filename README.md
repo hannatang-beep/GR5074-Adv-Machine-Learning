@@ -26,7 +26,7 @@ Main directory:
     - `Normal.metadata.xlsx`
     - `Viral Pneumonia.metadata.xlsx`
     - `README.md.txt`
-  - `notebooks/`: `Project_2_Data.ipynb`
+  - `notebooks/`: `Project_2_Data.ipynb`, `G_1_HanHehh3098_HannaTanght2668_YutongQuanyq2397.ipynb`, `G_1_HanHehh3098_HannaTanght2668_YutongQuanyq2397.pdf`
 - `Project_3/`: placeholder for final project
 - `.gitignore`: tracks ignored files (e.g. `.DS_Store`)
 - `README.md`
