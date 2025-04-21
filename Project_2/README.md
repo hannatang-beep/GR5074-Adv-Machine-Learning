@@ -13,7 +13,7 @@ We use a real-world medical dataset with thousands of images and implement a ful
 ```bash
 .
 ├── Project_2/ 
-  │  ├── data/ # Flattened image dataset
+  │  ├── data/
     │  ├── COVID/
     │  ├── Normal/
     │  ├── Viral Pneumonia/
