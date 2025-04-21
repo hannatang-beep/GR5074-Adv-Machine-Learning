@@ -1,6 +1,8 @@
 # Project 2: COVID-19 Chest X-ray Classification
 
-This project applies deep learning to classify chest X-ray images into three categories: **COVID-19**, **Normal**, and **Viral Pneumonia**.
+This project applies deep learning to classify chest X-ray images into three categories: 
+
+**COVID-19**, **Normal**, and **Viral Pneumonia**.
 
 We use a real-world medical dataset with thousands of images and implement a full pipeline including preprocessing, model training, and evaluation.
 
