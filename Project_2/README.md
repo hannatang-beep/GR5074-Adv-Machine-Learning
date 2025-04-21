@@ -47,5 +47,16 @@ We use a real-world medical dataset with thousands of images and implement a ful
 - Hanna Tang (ht2668)  
 - Yutong Quan (yq2397)
 
+---
+
+## 📚 Citation
+
+This project uses the **COVID-19 Radiography Database**, which originates from the following research:
+
+M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam,  
+M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz.  
+**"Can AI help in screening Viral and COVID-19 pneumonia?"**  
+*arXiv preprint*, 29 March 2020.  
+URL: [https://arxiv.org/abs/2003.13145](https://arxiv.org/abs/2003.13145)
 
 
